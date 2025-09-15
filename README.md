@@ -17,5 +17,5 @@ Python · Pandas · NumPy · scikit-learn · Matplotlib · Jupyter · Git
 
 ## 📫 Contacto
 - LinkedIn: (www.linkedin.com/in/franco-perez-967438384)
-- Kaggle: (francoperez98)
+- Kaggle: (https://www.kaggle.com/francoperez02)
 - Email: (carlosfrancoperez098@gmail.com)
